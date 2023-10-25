@@ -1,5 +1,7 @@
 from django.shortcuts import render
 
-print(f'Hello Mr/Mrs.: ")
+def aboutUs(request):
+    return render("Hello guys")
+
 
 # Create your views here.
