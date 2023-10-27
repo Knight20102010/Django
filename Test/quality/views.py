@@ -3,7 +3,9 @@ from django.http import HttpResponse
 import os, time
 
 def hello(request):
-    return render(request, 'hello.html')
+    return render(request, 'ahoj.html')
+
+
 
 """
 employee = {"1123":"Jozef Petras","1124":"Rastislav Guláš","1125":"Mária Surová", "1126":"Júlia Kocáková"}
