@@ -3,7 +3,7 @@ from django.http import HttpResponse
 import os, time
 
 def hello(request):
-    return render(request, 'ahoj.html')
+    return render(request, 'hello.html')
 
 
 
