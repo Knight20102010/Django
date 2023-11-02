@@ -2,8 +2,11 @@ from django.shortcuts import render
 from django.http import HttpResponse
 import os, time
 
-def hello(request):
-    return render(request, 'hello.html')
+def ahoj(request):
+    return render(request, 'ahoj.html')
+
+def vyhladavac(request):
+    return render(request,'')
 
 
 

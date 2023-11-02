@@ -1,3 +1,17 @@
 .ok{
-    color:red;
+    color:blue;
+}
+
+h1{
+    color: rgb(203, 7, 7);
+    text-align: center ;
+    background-color: rgb(124, 63, 63);
+    
+}
+
+head{
+    color: rgb(203, 7, 7);
+    text-align: center ;
+    background-color: rgb(124, 63, 63);
+    
 }
