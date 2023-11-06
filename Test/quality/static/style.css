@@ -1,5 +1,6 @@
 .ok{
     color:blue;
+    text-align: center;
 }
 
 h1{
@@ -14,4 +15,9 @@ head{
     text-align: center ;
     background-color: rgb(124, 63, 63);
     
+}
+
+body{
+    color:red;
+    text-align: center;
 }
