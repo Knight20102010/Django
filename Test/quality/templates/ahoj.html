@@ -4,11 +4,12 @@
         <meta charset="UTF-8">
         <meta name="viewpoint" content="width=device-width, initial-scale=1.0">
         <title>Doc</title>
-        
+        {% load static %}
+        <link rel="stylesheet" href="{% static 'style.css' %}">
     </head>
-    {% load static %}
+    
 
-    <link rel="stylesheet" href="{% static 'img/style.css' %}">
+    
 
     <body style="background-image:url('{% static 'img/fm.jpg' %}'); background-repeat: no-repeat;background-size: 100%;">
         <h1 class="ok">This is the test application</h1>
