@@ -11,14 +11,14 @@ h1{
 }
 
 head{
-    color: rgb(49, 7, 203);
+    color: blueviolet;
     text-align: center ;
     background-color: rgb(212, 203, 203);
     
 }
 
 body{
-    color:rgb(0, 21, 255);
+    color:blueviolet;
     text-align: center;
     background-color: aliceblue;
 }
